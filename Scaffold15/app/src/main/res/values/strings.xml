@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Scaffold</string>
+    <string name="title_activity_main">title</string>
+    <string name="hello_world">Hello</string>
+    <string name="pause">PAUSAR</string>
+    <string name="start">Start game</string>
+    <string name="game_title">game title</string>
+    <string name="pause_dialog_title">PAUSA</string>
+    <string name="pause_dialog_message">El juego no avanzará por ahora</string>
+    <string name="resume">REANUDAR</string>
+    <string name="stop">VOLVER AL MENÚ</string>
+</resources>

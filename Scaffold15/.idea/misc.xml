@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/baldo/Documents/GitHub/mobileSpaceGame/Scaffold15/app/src/main/res/layout/activity_result.xml" value="0.24791666666666667" />
+        <entry key="..\:/Users/baldo/Documents/GitHub/mobileSpaceGame/Scaffold15/app/src/main/res/layout/activity_scaffold.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/baldo/Documents/GitHub/mobileSpaceGame/Scaffold15/app/src/main/res/layout/fragment_game.xml" value="0.33" />
+        <entry key="..\:/Users/baldo/Documents/GitHub/mobileSpaceGame/Scaffold15/app/src/main/res/layout/fragment_main_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/baldo/Documents/GitHub/mobileSpaceGame/Scaffold15/app/src/main/res/layout/view_joystick.xml" value="0.3096590909090909" />
+        <entry key="..\:/Users/baldo/Documents/GitHub/mobileSpaceGame/Scaffold15/app/src/main/res/layout/view_keypad.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/baldo/OneDrive/Documentos/GitHub/androidp1v4/mobileSpaceGame/Scaffold15/app/src/main/res/layout/activity_scaffold.xml" value="0.22" />
+        <entry key="..\:/Users/baldo/OneDrive/Documentos/GitHub/androidp1v4/mobileSpaceGame/Scaffold15/app/src/main/res/layout/fragment_game.xml" value="0.2368659420289855" />
+        <entry key="..\:/Users/baldo/OneDrive/Documentos/GitHub/androidp1v4/mobileSpaceGame/Scaffold15/app/src/main/res/layout/fragment_main_menu.xml" value="0.25" />
+        <entry key="..\:/Users/baldo/OneDrive/Documentos/GitHub/androidp1v4/mobileSpaceGame/Scaffold15/app/src/main/res/layout/view_joystick.xml" value="0.25" />
+        <entry key="..\:/Users/baldo/OneDrive/Documentos/GitHub/androidp1v4/mobileSpaceGame/Scaffold15/app/src/main/res/layout/view_keypad.xml" value="0.2368659420289855" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
